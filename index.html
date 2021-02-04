@@ -16,7 +16,7 @@
         window.location.href = 'https://themostepicest.github.io/cloud/' + document.getElementById("search-box").value;
       }
       window.addEventListener("keydown",(e) => {
-        if (document.getElementById("search-box").value !== "") {
+        if (document.getElementById("search-box").value !== "" && e.code === "Enter") {
           changeHref();
         }
       });
