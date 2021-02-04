@@ -5,7 +5,7 @@
     <p>If you know the file you are looking for, enter it into the address bar or search for it. If you don't know the file you are looking for, you probably don't need it.</p>
     <p style="display: inline">Search for a file: </p>
     <input id="search" type="text" style="inline">
-    <input type="submit" style="inline"  onsubmit="changeHref()">
+    <input type="submit" style="inline"  onclick="changeHref()">
     <script>
       function changeHref() {
         window.location.href = 'https://themostepicest.github.io/cloud/' + document.getElementById("search").value;
