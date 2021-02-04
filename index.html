@@ -1,14 +1,19 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <title>TheMostEpicest's Cloud Storage</title>
+    <link href="./truncatedicosahedrontransparent.png" rel="shortcut icon">
+    </ink href="./index.css" type="text/css" rel="stylesheet">
+  </head>
   <body>
     <h1>TheMostEpicest's Cloud Storage</h1>
     <p>If you know the file you are looking for, enter it into the address bar or search for it. If you don't know the file you are looking for, you probably don't need it.</p>
-    <p style="display: inline">Search for a file: </p>
-    <input id="search" type="text" style="inline">
-    <input type="submit" style="inline"  onclick="changeHref()">
+    <p id="search-text">Search for a file (Exact path required): </p>
+    <input id="search-box" type="text" onsubmit="changeHref()">
+    <input id="search-submit" type="submit" onclick="changeHref()">
     <script>
       function changeHref() {
-        window.location.href = 'https://themostepicest.github.io/cloud/' + document.getElementById("search").value;
+        window.location.href = 'https://themostepicest.github.io/cloud/' + document.getElementById("search-box").value;
       }
     </script>
   </body>
