@@ -9,7 +9,7 @@
     <h1>TheMostEpicest's Cloud Storage</h1>
     <p>If you know the file you are looking for, enter it into the address bar or search for it. If you don't know the file you are looking for, you probably don't need it.</p>
     <p id="search-text">Search for a file (Exact path required): </p>
-    <input id="search-box" type="text" onsubmit="changeHref()">
+    <input id="search-box" type="text" onsubmit="changeHref()" onload="document.getElementById('search-box').value = ''">
     <input id="search-submit" type="submit" onclick="changeHref()">
     <script>
       function changeHref() {
