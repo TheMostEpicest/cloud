@@ -1,0 +1,31 @@
+Monday
+  AP Chemistry: 8:20 AM - 9:45 AM
+  Computer Science A: 9:55 AM - 11:20 AM
+  Bible 12: 11:25 AM - 12:50 PM
+  Statistics: 1:10 PM - 2:35 PM
+
+Tuesday
+  Study Hall: 8:20 AM - 9:45 AM
+  Chapel: 9:55 AM - 11:20 AM
+  AP English Literature and Composition: 11:25 AM - 12:50 PM
+  : 1:10 PM - 2:35 PM
+
+Wednesday
+  AP Chemistry: 8:20 AM - 9:45 AM
+  Computer Science A: 9:55 AM - 11:20 AM
+  Bible 12: 11:25 AM - 12:50 PM
+  Statistics: 1:10 PM - 2:35 PM
+
+Thursday
+  Study Hall: 8:20 AM - 9:45 AM
+  AP English Literature and Composition: 9:55 AM - 11:20 AM
+  AP US Government and Politics: 11:25 AM - 12:50 PM
+
+Friday
+  AP Chemistry: 8:20 AM - 9:10 AM
+  Study Hall: 9:15 AM - 10:00 AM
+  Computer Science A: 10:15 AM - 11:00 AM
+  AP English Literature and Composition: 11:05 AM - 11:50 AM
+  Bible 12: 11:55 AM - 12:40 PM
+  AP US Government and Politics: 1:00 PM - 1:45 PM
+  Statistics: 1:50 PM - 2:35 PM
